@@ -1,8 +1,7 @@
 # Mobile Browsing
 A basic agent string changer.
 
-Pick a mode and start browsing. Oh, by the way, it only supports mobile mode. 
-It doesn't remember the choice so set it at each browser restart.
+Pick a mode and start browsing. By the way, it only supports mobile mode.
 
 # Install
 To do...
